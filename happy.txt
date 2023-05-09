@@ -1,10 +1,3 @@
 happy morning 
 Welcome to the session
-Happy Noon
-Happy Evening 
-break time
-lunch break
-This is from vidhya
-This is from Dev
-This is from Ops
-This is pandey
+This message is from Vidhya
